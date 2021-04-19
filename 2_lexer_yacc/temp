@@ -1,0 +1,5 @@
+#include<stdio.h>
+void main()
+{
+	int a = 4 * 5 / 2 + 3 - 93 / 3 - 2 * 6;
+}
